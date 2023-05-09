@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Metrics](https://metrics.lecoq.io/username)
 <!--
 **Darcorners/Darcorners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
